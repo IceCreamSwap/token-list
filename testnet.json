@@ -21,6 +21,14 @@
       "logoURI": "https://bscscan.com/token/images/busd_32.png"
     },
     {
+      "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+      "chainId": 56,
+      "name": "BinanceUSD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
       "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
       "chainId": 97,
       "name": "WrappedBNB",
@@ -30,7 +38,7 @@
     }
   ],
   "version": {
-    "major": 6,
+    "major": 7,
     "minor": 0,
     "patch": 0
   }
