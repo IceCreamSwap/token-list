@@ -1,5 +1,5 @@
 {
-  "name": "IceCreamSwap BSC Menu",
+  "name": "IceCreamSwap BSC",
   "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/sushi_logo.png",
   "keywords": [
     "IceCreamSwap",
@@ -30,7 +30,7 @@
     }
   ],
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 0
   }
