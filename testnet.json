@@ -1,0 +1,37 @@
+{
+  "name": "IceCreamSwap BSC Menu",
+  "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/sushi_logo.png",
+  "keywords": [
+    "IceCreamSwap",
+    "IceCream",
+    "Ice",
+    "Cream",
+    "sushiswap",
+    "sushi",
+    "swap"
+  ],
+  "timestamp": "2021-01-03T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+      "chainId": 97,
+      "name": "BinanceUSD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "chainId": 97,
+      "name": "WrappedBNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/binance_32.png"
+    }
+  ],
+  "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 0
+  }
+}
