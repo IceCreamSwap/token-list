@@ -13,6 +13,14 @@
   "timestamp": "2021-02-03T00:00:00+00:00",
   "tokens": [
     {
+      "address": "0xc64DdC9C5301523d60906fF75555D628e7518F13",
+      "chainId": 56,
+      "name": "Ice Cream",
+      "symbol": "iCream",
+      "decimals": 18,
+      "logoURI": "https://exchange.icecreamswap.finance/favicon.png"
+    },
+    {
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "chainId": 56,
       "name": "BinanceUSD",
@@ -184,7 +192,7 @@
     }
   ],
   "version": {
-    "major": 11,
+    "major": 12,
     "minor": 0,
     "patch": 0
   }
