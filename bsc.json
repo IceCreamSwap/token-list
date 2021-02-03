@@ -1,6 +1,6 @@
 {
   "name": "IceCreamSwap BSC",
-  "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/sushi_logo.png",
+  "logoURI": "https://raw.githubusercontent.com/IceCreamSwap/token-list/main/logo.png",
   "keywords": [
     "IceCreamSwap",
     "IceCream",
@@ -10,7 +10,7 @@
     "sushi",
     "swap"
   ],
-  "timestamp": "2021-01-03T00:00:00+00:00",
+  "timestamp": "2021-02-03T00:00:00+00:00",
   "tokens": [
     {
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
@@ -184,7 +184,7 @@
     }
   ],
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 0
   }
