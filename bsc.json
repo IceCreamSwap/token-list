@@ -10,15 +10,20 @@
     "sushi",
     "swap"
   ],
-  "timestamp": "2021-02-03T00:00:00+00:00",
+  "timestamp": "2021-02-04T02:00:00+00:00",
+  "version": {
+    "major": 15,
+    "minor": 0,
+    "patch": 0
+  },
   "tokens": [
     {
-      "address": "0xc64DdC9C5301523d60906fF75555D628e7518F13",
+      "address": "0x58f651DDE51CAa87c4111B16ee0A6Fab061Ee564",
       "chainId": 56,
       "name": "Ice Cream",
       "symbol": "iCream",
       "decimals": 18,
-      "logoURI": "https://exchange.icecreamswap.finance/favicon.png"
+      "logoURI": "https://raw.githubusercontent.com/IceCreamSwap/token-list/main/icream.png"
     },
     {
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
@@ -190,10 +195,5 @@
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/yfi_32.png"
     }
-  ],
-  "version": {
-    "major": 12,
-    "minor": 0,
-    "patch": 0
-  }
+  ]
 }
