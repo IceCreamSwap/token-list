@@ -10,9 +10,9 @@
     "sushi",
     "swap"
   ],
-  "timestamp": "2021-03-03T02:00:00+00:00",
+  "timestamp": "2021-10-20T00:00:00+00:00",
   "version": {
-    "major": 17,
+    "major": 18,
     "minor": 0,
     "patch": 0
   },
@@ -204,7 +204,7 @@
       "logoURI": "https://bscscan.com/token/images/yfi_32.png"
     },
     {
-      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "address": "0x111111111117dC0aa78b770fA6A738034120C302",
       "chainId": 56,
       "name": "1INCH Token",
       "symbol": "1INCH",
