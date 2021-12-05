@@ -12,11 +12,19 @@
   ],
   "timestamp": "2021-10-20T00:00:00+00:00",
   "version": {
-    "major": 18,
+    "major": 19,
     "minor": 0,
     "patch": 0
   },
   "tokens": [
+    {
+      "address": "0xea6F88a287a821B9917a78D3B5E37C5900c1880d",
+      "chainId": 56,
+      "name": "VANI Token",
+      "symbol": "VANI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/IceCreamSwap/token-list/main/0xea6F88a287a821B9917a78D3B5E37C5900c1880d.png"
+    },
     {
       "address": "0x096901973AC5b4dd14728fAE04597b90B2a47da9",
       "chainId": 56,
@@ -210,14 +218,6 @@
       "symbol": "1INCH",
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/1inch_32.png"
-    },
-    {
-      "address": "0xea6F88a287a821B9917a78D3B5E37C5900c1880d",
-      "chainId": 56,
-      "name": "VANI Token",
-      "symbol": "VANI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/IceCreamSwap/token-list/main/0xea6F88a287a821B9917a78D3B5E37C5900c1880d.png"
     }
   ]
 }
